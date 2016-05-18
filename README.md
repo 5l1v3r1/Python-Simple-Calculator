@@ -2,6 +2,8 @@
 
 Linux işletim sistemleri için geliştirilmiş ve python dili ile yazılmışdır. Basit bir hesap makinesi yazılımıdır.
 
+Özellikler :
+
 (1) Toplama
 
 (2) Çıkartma
