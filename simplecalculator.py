@@ -69,7 +69,7 @@ if islem_numarasi == 1:
 	toplama()
  
 elif islem_numarasi == 2:
-	cikartma()
+	cikarma()
  
 elif islem_numarasi == 3:
 	carpma()
