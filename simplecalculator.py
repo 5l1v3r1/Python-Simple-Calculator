@@ -35,34 +35,34 @@ print star
 
 def toplama():
 	print star
-	sayi_toplama = input("Toplama işlemi için ilk sayıyı giriniz : ")
-	sayi_toplama = input("Toplama işlemi için ikici sayıyı giriniz : ")
+	sayi_toplama_1 = input("Toplama işlemi için ilk sayıyı giriniz : ")
+	sayi_toplama_2 = input("Toplama işlemi için ikici sayıyı giriniz : ")
 	print star
-	print "Sonuç : " , sayi_toplama, " + ", sayi_toplama, "=", sayi_toplama + sayi_toplama
+	print "Sonuç : " , sayi_toplama_1, " + ", sayi_toplama_2, "=", sayi_toplama_1 + sayi_toplama_2
 	print star
 
 def cikarma():
 	print star
-	sayi_cikartma = input("Çıkartma işlemi için ilk sayıyı giriniz : ")
-	sayi_cikartma = input("Çıkartma işlemi için  sayıyı giriniz : ")
+	sayi_cikartma_1 = input("Çıkartma işlemi için ilk sayıyı giriniz : ")
+	sayi_cikartma_2 = input("Çıkartma işlemi için  sayıyı giriniz : ")
 	print star	
-	print "Sonuç : " , sayi_cikartma, " - ", sayi_cikartma, "=", sayi_cikartma - sayi_cikartma
+	print "Sonuç : " , sayi_cikartma_1, " - ", sayi_cikartma_2, "=", sayi_cikartma_1 - sayi_cikartma_2
 	print star
 
 def carpma():
 	print star
-	sayi_carpma = input("Çarpma işlemi için ilk sayıyı giriniz : ")
-	sayi_carpma = input("Çarpma işlemi için ikinci sayıyı giriniz : ")
+	sayi_carpma_1 = input("Çarpma işlemi için ilk sayıyı giriniz : ")
+	sayi_carpma_2 = input("Çarpma işlemi için ikinci sayıyı giriniz : ")
 	print star	
-	print "Sonuç = " , sayi_carpma, " X ", sayi_carpma, "=", sayi_carpma * sayi_carpma
+	print "Sonuç = " , sayi_carpma_1, " X ", sayi_carpma_2, "=", sayi_carpma_1 * sayi_carpma_2
 	print star
 
 def bolme():
 	print star
-	sayi_bolme = input("Bölme işlemi için ikinci sayıyı giriniz : ")
-	sayi_bolme = input("Bölme işlemi için ikinci sayıyı giriniz : ")
+	sayi_bolme_1 = input("Bölme işlemi için ikinci sayıyı giriniz : ")
+	sayi_bolme_2 = input("Bölme işlemi için ikinci sayıyı giriniz : ")
 	print star        
-	print "Sonuç = " , sayi_bolme, " / ", sayi_bolme, "=", sayi_bolme / sayi_bolme
+	print "Sonuç = " , sayi_bolme_1, " / ", sayi_bolme_2, "=", sayi_bolme_1 / sayi_bolme_1
 	print star
 
 if islem_numarasi == 1:
