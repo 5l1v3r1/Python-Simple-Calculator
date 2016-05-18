@@ -62,7 +62,7 @@ def bolme():
 	sayi_bolme_1 = input("Bölme işlemi için ikinci sayıyı giriniz : ")
 	sayi_bolme_2 = input("Bölme işlemi için ikinci sayıyı giriniz : ")
 	print star        
-	print "Sonuç = " , sayi_bolme_1, " / ", sayi_bolme_2, "=", sayi_bolme_1 / sayi_bolme_1
+	print "Sonuç = " , sayi_bolme_1, " / ", sayi_bolme_2, "=", sayi_bolme_1 / sayi_bolme_2
 	print star
 
 if islem_numarasi == 1:
